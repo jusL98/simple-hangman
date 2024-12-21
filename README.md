@@ -17,7 +17,7 @@ To install the Simple Hangman Game, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jusL98/SimpleHangmanGame.git
+   git clone https://github.com/jusL98/simple-hangman-game.git
    cd simple-hangman-game
    ```
 
@@ -31,7 +31,7 @@ To install the Simple Hangman Game, follow these steps:
 
 4. Run the Simple Food Hangman Game.
    ```bash
-   python simple_hangman_game.py
+   python main.py
    ```
 
 ## Usage
