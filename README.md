@@ -4,7 +4,7 @@
 This game is a simple hangman game related to foods to practice string manipulation. Players have 6 guesses and incorrect, repeat and invalid guesses are properly handled.
 
 <p align="left">
-   <img width="600" alt="image" src="https://github.com/user-attachments/assets/0ee03bbd-18e6-47a9-adbb-a1d087b48e0e"/>
+   <img width="600" alt="image" src="https://github.com/user-attachments/assets/78eb14aa-76c1-4e5c-9957-02302672583c"/>
 </p>
 
 ## Description
