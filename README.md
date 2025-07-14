@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# Quiz Game
+# Simple Hangman
 This game is a simple hangman game related to foods to practice string manipulation. Players have 6 guesses and incorrect, repeat and invalid guesses are properly handled.
 
 <p align="left">
@@ -20,7 +20,7 @@ Simple Hangman involves a player guessing a randomly selecting a food-related wo
 - Terminal or CLI Access
 
 ### Installation
-To install Quiz Game, follow these steps:
+To install Simple Hangman, follow these steps:
 
 1. Clone the repository:
 
