@@ -4,10 +4,10 @@ This is a simple hangman game where the user has to guess the food.
 
 # Imports
 import random
-import wordsforhangman
+import words_for_hangman
 
 # Variables
-words = wordsforhangman.words
+words = words_for_hangman.words
 answer = random.choice(words)
 blanks = ['_'] * len(answer)
 attempts = 6
